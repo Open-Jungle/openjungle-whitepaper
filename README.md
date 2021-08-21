@@ -1,5 +1,12 @@
 ![JungleEx](https://ipfs.io/ipfs/QmSqktoxt6VagJt7azEmxCqKm8C7GbyjWeaREEeFbvvGtz "Logo Title Text 1")
 
+**ToDo**  
+- Create architecture scheme
+- Update roadmap
+- Explain Governance Token
+
+---
+
 Welcome to the community and thank you for your interest in our Open Jungle!
 
 In this document we will try to give you a complete but simple description of the project. If you have any questions left unanswered after reading, we invite you to join our official [discord community](https://discord.gg/VqAVPMyMzB) 🚀
